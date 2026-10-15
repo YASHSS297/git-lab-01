@@ -1,3 +1,4 @@
 # git-lab-01
 Edited directly on github
-temporary line to remove later
+## Description
+A hands-on lab repository for practicing Git and GitHub.
